@@ -1,0 +1,20 @@
+.showComments{
+	border:1px solid gray;
+	margin-top:10px;
+	padding-left: 5px;
+	padding-top: 5px;
+ 	word-wrap: break-word;
+   width: 400px;
+}
+
+
+.commentAuthor{
+color:gray;
+font:14px bold italic;
+}
+.commentContent{
+font:12px bold italic;
+}
+.commentDate{
+font:14px bold italic;
+}
